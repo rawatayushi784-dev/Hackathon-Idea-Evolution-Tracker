@@ -19,3 +19,14 @@ Evolution Tracker is a smart, C++-based application that helps users capture ide
 To transform scattered thoughts into structured, trackable, and continuously improving innovations.
 
 **Built for innovators. Designed for evolution.**
+
+**MainMenu Screenshot**
+<img width="883" height="698" alt="Image" src="https://github.com/user-attachments/assets/ece01428-8e8c-4be8-a68e-1e86b04979f5" />
+
+
+**DisplayAllIdeas**
+<img width="874" height="689" alt="Image" src="https://github.com/user-attachments/assets/b17da72b-9529-46a1-a78b-2ee4a0934052" />
+
+
+**Idea Improvement History Screenshot**
+<img width="830" height="672" alt="Image" src="https://github.com/user-attachments/assets/65999975-1323-46b9-88e0-00d199f3b3cd" />
