@@ -1,4 +1,4 @@
-# Hackathon-Idea-Evolution-Tracker
+# Hackathon Idea Evolution Tracker
 
 **Turn every idea into an evolving innovation.**
 
